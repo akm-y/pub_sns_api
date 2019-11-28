@@ -1,0 +1,48 @@
+ # Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+lib/
+lib64/
+
+# Django stuff:y
+db.sqlite3
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache
+
+api.sock
+pyvenv.cfg
+Include/
+Scripts/
+tcl/
+LICENSE.txt
+.idea/
+
+lib/
+lib64/
